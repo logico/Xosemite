@@ -1,9 +1,10 @@
-#Xosemite#
+# Xosemite
 
 Xosemite es un tema para XFCE que intenta recrear el "look and feel" de OS X
 10.10 Yosemite.
 
-###Instalación###
+# Instalación
+
 Copiar las carpetas xosemite-gtk y xosemite-xfce en **/home/tu-usuario/.themes** (si no existe, crearla). Recordar que todos los archivos y
 directorios que inician con . son ocultos, por lo tanto van a tener que activar
 la opción para verlos. En la mayoría de las distribuciones con el atajo de
