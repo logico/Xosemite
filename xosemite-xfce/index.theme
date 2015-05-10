@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Yosemite
+Comment=Yosemitelike
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Yosemite
+MetacityTheme=Yosemite
+ButtonLayout=close,maximize,minimize:

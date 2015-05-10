@@ -1,0 +1,37 @@
+/* XPM */
+static char *inactive[] = {
+/* columns rows colors chars-per-pixel */
+"15 22 9 1",
+"  c #BEBEBE",
+". c #C1C1C1",
+"X c #C5C5C5",
+"o c #C7C7C7",
+"O c #D2D2D2",
+"+ c #D4D4D4",
+"@ c #E4E4E4",
+"# c #E5E5E5",
+"$ c #EBEBEB",
+/* pixels */
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$O.  .O$$$",
+"$$$$@ XoXooX @$",
+"$$$$ XXoooooX $",
+"$$$OXooooooooXO",
+"$$$.Xooooooooo.",
+"$$$ oooooooooo ",
+"$$$.oooooooooo ",
+"$$$.oooooooooo.",
+"$$$+XXoooooooX+",
+"$$$$.XooooooX.$",
+"$$$$@.XoooXX.@$",
+"$$$$$$+X  .+$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$",
+"$$$$$$$$$$$$$$$"
+};
