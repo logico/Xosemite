@@ -14,4 +14,4 @@ Para poder aplicar el tema desde el administrador de configuración, apariencia 
 ventanas elegir el tema xosemite-xfce. Si no aparece la opción revisar que el
 directorio donde se descomprimió es correcto.
 
-[Página del proyecto](http://logico.com.ar/blog/proyectos/2015/05/10/os-x-yosemite-xfce-theme/)
+[Página del proyecto](https://logico.com.ar/blog/2015/05/10/convierte-a-xubuntu-en-os-x-yosemite-con-xfce-xosemite)
